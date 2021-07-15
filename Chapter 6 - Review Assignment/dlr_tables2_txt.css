@@ -40,10 +40,15 @@ table.programs {
  
  /* Table Column Styles */
  
+
+
  col.timeColumn {
    width: 10%;
    background-color: rgb(215, 205, 151);
  }
+
+
+
  
  col.wDayColumns {
    width: 11%;
@@ -55,6 +60,8 @@ table.programs {
    background-color: rgb(255, 231, 255);
  }
  
+
+
  /* Table Header Styles */
  
  thead {
@@ -62,6 +69,8 @@ table.programs {
    background-color: rgb(105, 177, 60);
  }
  
+
+
  thead th:first-of-type {
    background-color: rgb(153, 86, 7);
  }
